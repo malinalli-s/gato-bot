@@ -1,0 +1,30 @@
+say: "Hola! Soy un gato"
+answers:
+
+  Quiero playera:
+    say: Puedes escoger una playera o podemos hacer una para ti, escoge un tema
+    answers:
+      Siendo Gatos:
+        say: ¿Qué es lo que mas te gusta de los gatos?
+      En la oficina:
+        say: ¿Que tipo de profesionista te interesa?
+      En el espacio:
+        say: ¿Tienes alguna teoría cuática favorita?
+
+  ¿Podemos ir al espacio?:
+    say: ¿Cómo quieres llegar?
+    answers:
+      Te puedo contar una historia:
+        say: link a animación de youtube
+      Checa nuestros gatocascos espaciales:
+        say: Ver link a cascos
+
+  Ayudame con mi negocio:
+    say: Sabemos que los gatos somos los mejores vendedores
+    answers:
+      Que es el tianguis:
+        say: El tianguis es un espacio virtual que puedes rentar temporalmente para darte a conocer 
+      Quiero un puesto:
+        say: Entiendo. contesta el siguiente cuestionario
+      Quiero un bot:
+        say: Genial. Dime que tipo de gato quieres? o prefieres uno de esos aburridos humanos?
